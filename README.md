@@ -8,17 +8,17 @@ Este repositório centraliza toda a documentação de gerenciamento e execução
 
 | Arquivo | Descrição |
 |---|---|
-| `01 - Escopo.docx` | Define os limites do projeto — o que está dentro e fora do escopo, principais entregas e critérios de aceitação. |
-| `02 - Estimativa` | Estimativas de esforço, custo e prazo utilizadas como linha de base para o planejamento. |
-| `03 - Plano do Projeto.docx` | Documento mestre com cronograma, estratégia de execução, marcos e premissas do projeto. |
-| `04 - Dicionário da EAP.docx` | Descrição detalhada de cada pacote de trabalho da Estrutura Analítica do Projeto (EAP). |
-| `05 - Dimensionamento de Infraestrutura e Arquitetura.docx` | Especificações técnicas de infraestrutura, arquitetura de solução e decisões de tecnologia. |
-| `06 - Diretório da Equipe.docx` | Lista de membros do time, papéis, responsabilidades e informações de contato. |
-| `07 - Status Report.docx` | Relatório periódico de acompanhamento com progresso, riscos, impedimentos e próximos passos. |
-| `07 - Timeline_Sistema_MK_Barbearia.svg` | Linha do tempo visual do projeto em formato vetorial, ideal para apresentações e painéis. |
-| `08 - Detalhamento dos Ciclos.xlsx` | Planilha com o detalhamento de cada sprint: horas estimadas, horas gastas, acertabilidade e custo por ciclo. |
-| `09 - Termo de Aceite - Sprint 3.docx` | Documento formal de aceite das entregas da Sprint 3, assinado pelo cliente ou representante. |
-| `10 - Backlog Sprint 3.xlsx` | Lista priorizada de itens, histórias de usuário e tarefas planejadas para a Sprint 3. |
+| [`01 - Escopo.docx`](https://github.com/alysson-arcas-tec/modelo-documentacao-projeto/blob/main/Reposit%C3%B3rio%20de%20Documenta%C3%A7%C3%A3o%20de%20Projeto/01%20-%20Escopo.docx) | Define os limites do projeto — o que está dentro e fora do escopo, principais entregas e critérios de aceitação. |
+| [`02 - Estimativa`](https://github.com/alysson-arcas-tec/modelo-documentacao-projeto/blob/main/Reposit%C3%B3rio%20de%20Documenta%C3%A7%C3%A3o%20de%20Projeto/02%20-%20Estimativa%20SFP%20-%20Sistema%20MK%20Barbearia.docx)| Estimativas de esforço, custo e prazo utilizadas como linha de base para o planejamento. |
+| [`03 - Plano do Projeto.docx`](https://github.com/alysson-arcas-tec/modelo-documentacao-projeto/blob/main/Reposit%C3%B3rio%20de%20Documenta%C3%A7%C3%A3o%20de%20Projeto/03%20-%20Plano%20do%20Projeto.docx) | Documento mestre com cronograma, estratégia de execução, marcos e premissas do projeto. |
+| [`04 - Dicionário da EAP.docx`](https://github.com/alysson-arcas-tec/modelo-documentacao-projeto/blob/main/Reposit%C3%B3rio%20de%20Documenta%C3%A7%C3%A3o%20de%20Projeto/04%20-%20Dicion%C3%A1rio%20da%20EAP.docx) | Descrição detalhada de cada pacote de trabalho da Estrutura Analítica do Projeto (EAP). |
+| [`05 - Dimensionamento de Infraestrutura e Arquitetura.docx`](https://github.com/alysson-arcas-tec/modelo-documentacao-projeto/blob/main/Reposit%C3%B3rio%20de%20Documenta%C3%A7%C3%A3o%20de%20Projeto/05%20-%20Dimensionamento%20de%20Infraestrutura%20e%20Arquitetura.docx) | Especificações técnicas de infraestrutura, arquitetura de solução e decisões de tecnologia. |
+| [`06 - Diretório da Equipe.docx`](https://github.com/alysson-arcas-tec/modelo-documentacao-projeto/blob/main/Reposit%C3%B3rio%20de%20Documenta%C3%A7%C3%A3o%20de%20Projeto/06%20-%20Diret%C3%B3rio%20da%20Equipe.docx) | Lista de membros do time, papéis, responsabilidades e informações de contato. |
+| [`07 - Status Report.docx`](https://github.com/alysson-arcas-tec/modelo-documentacao-projeto/blob/main/Reposit%C3%B3rio%20de%20Documenta%C3%A7%C3%A3o%20de%20Projeto/07%20-%20Status%20Report.docx) | Relatório periódico de acompanhamento com progresso, riscos, impedimentos e próximos passos. |
+| [`07 - Timeline_Sistema_MK_Barbearia.svg`](https://github.com/alysson-arcas-tec/modelo-documentacao-projeto/blob/main/Reposit%C3%B3rio%20de%20Documenta%C3%A7%C3%A3o%20de%20Projeto/07%20-%20Timeline_Sistema_MK_Barbearia.svg) | Linha do tempo visual do projeto em formato vetorial, ideal para apresentações e painéis. |
+| [`08 - Detalhamento dos Ciclos.xlsx`](https://github.com/alysson-arcas-tec/modelo-documentacao-projeto/tree/main/Reposit%C3%B3rio%20de%20Documenta%C3%A7%C3%A3o%20de%20Projeto) | Planilha com o detalhamento de cada sprint: horas estimadas, horas gastas, acertabilidade e custo por ciclo. |
+| [`09 - Termo de Aceite - Sprint 3.docx`](https://github.com/alysson-arcas-tec/modelo-documentacao-projeto/blob/main/Reposit%C3%B3rio%20de%20Documenta%C3%A7%C3%A3o%20de%20Projeto/09%20-%20Termo%20de%20Aceite%20-%20Sprint%203.docx) | Documento formal de aceite das entregas da Sprint 3, assinado pelo cliente ou representante. |
+| [`10 - Backlog Sprint 3.xlsx`](https://github.com/alysson-arcas-tec/modelo-documentacao-projeto/blob/main/Reposit%C3%B3rio%20de%20Documenta%C3%A7%C3%A3o%20de%20Projeto/10%20-%20Backlog%20Sprint%203.xlsx) | Lista priorizada de itens, histórias de usuário e tarefas planejadas para a Sprint 3. |
 
 ---
 
