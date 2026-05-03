@@ -1,4 +1,4 @@
-# 📁 Repositório de Documentação do Projeto
+# 📁 Repositório de Documentação de Projeto
 
 Este repositório centraliza toda a documentação de gerenciamento e execução do projeto, servindo como fonte única de verdade para a equipe. Os arquivos estão organizados sequencialmente, cobrindo desde a concepção do escopo até os artefatos operacionais de cada sprint.
 
